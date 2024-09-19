@@ -1,0 +1,13 @@
+/*------------------------------------------------------------------
+    File Name: custom.css
+-------------------------------------------------------------------*/
+
+/** ADD YOUR AWESOME CODES HERE **/
+
+.active {
+    background-color: rgb(61, 61, 61);
+}
+
+#dataTable_wrapper {
+    color: white;
+}
